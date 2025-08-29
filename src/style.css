@@ -1,7 +1,12 @@
 @import "tailwindcss";
+@font-face {
+  font-family: 'LibertinusKeyboard';
+  src: url('./assets/fonts/LibertinusKeyboard-Regular.ttf') format('truetype');
+}
+
 
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: system-ui, Avenir, Helvetica, Arial, 'LibertinusKeyboard', sans-serif;
   line-height: 1.5;
   font-weight: 400;
 

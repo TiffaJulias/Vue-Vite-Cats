@@ -53,7 +53,7 @@ h1 {
   color: #fff;
   padding: 1.5rem;
   border-radius: 12px;
-  width: 600px;
+  width: 625px;
   min-height: auto;
   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }
